@@ -49,14 +49,14 @@ export default function ArticlePage() {
       <article className="px-6 py-16 lg:px-8">
         <div className="prose prose-lg mx-auto max-w-3xl">
           <p className="text-lg leading-relaxed text-[#1A1A1A]">
-            O autoconhecimento é a base de qualquer transformação verdadeira. Quando falamos em gestão de carreira e desenvolvimento pessoal, precisamos ir além das técnicas superficiais e mergulhar nas camadas mais profundas do nosso ser. É aqui que a Astrologia Comportamental se torna uma ferramenta extraordinária.
+            O autoconhecimento é a base de qualquer transformação verdadeira. Quando falamos em gestão de carreira e desenvolvimento pessoal, precisamos ir além das técnicas superficiais e mergulhar nas camadas mais profundas do nosso ser. É aqui que a abordagem de Comportamento & Carreira se torna uma ferramenta extraordinária — olhando para o negócio e para a empresária de forma global.
           </p>
 
           <h2 className="mt-12 font-serif text-2xl font-semibold text-[#1A1A1A]">
-            O que é Astrologia Comportamental?
+            O que é Comportamento & Carreira?
           </h2>
           <p className="mt-4 leading-relaxed text-[#1A1A1A]">
-            Diferente da astrologia popular que conhecemos pelos horóscopos, a Astrologia Comportamental é uma metodologia que utiliza o mapa astral como ferramenta de diagnóstico comportamental. Ela nos ajuda a identificar padrões de pensamento, emoções e ações que moldam nossa forma de nos relacionar com o mundo, com o trabalho e conosco mesmas.
+            Comportamento & Carreira é uma metodologia que utiliza ferramentas de diagnóstico comportamental para entender você e seu negócio de forma global. Ela nos ajuda a identificar padrões de pensamento, emoções e ações que moldam nossa forma de nos relacionar com o mundo, com o trabalho e conosco mesmas.
           </p>
           <p className="mt-4 leading-relaxed text-[#1A1A1A]">
             Através dela, conseguimos entender por que reagimos de determinada forma em situações de pressão, por que alguns ambientes nos energizam enquanto outros nos drenam, e quais são nossos talentos naturais que muitas vezes subestimamos.
@@ -66,7 +66,7 @@ export default function ArticlePage() {
             A Jornada do Autoconhecimento
           </h2>
           <p className="mt-4 leading-relaxed text-[#1A1A1A]">
-            Conhecer a si mesma não é um destino, mas uma jornada contínua. E nessa jornada, ter um mapa faz toda a diferença. A Astrologia Comportamental oferece exatamente isso: um mapa das suas tendências naturais, seus pontos de força e as áreas que precisam de mais atenção e desenvolvimento.
+            Conhecer a si mesma não é um destino, mas uma jornada contínua. E nessa jornada, ter um mapa faz toda a diferença. A abordagem de Comportamento & Carreira oferece exatamente isso: um mapa das suas tendências naturais, seus pontos de força e as áreas que precisam de mais atenção e desenvolvimento — sempre com um olhar global para a empresária e seu negócio.
           </p>
           <p className="mt-4 leading-relaxed text-[#1A1A1A]">
             Quando você entende seus padrões, pode trabalhar conscientemente para transformá-los. Não se trata de mudar quem você é, mas de potencializar o que há de melhor em você e desenvolver estratégias para lidar com seus desafios de forma mais inteligente.
@@ -122,7 +122,7 @@ export default function ArticlePage() {
       <section className="bg-[#000000] px-6 py-16 lg:px-8">
         <div className="mx-auto max-w-4xl text-center">
           <h2 className="font-serif text-2xl font-semibold text-white md:text-3xl">
-            Quer descobrir seu potencial através da Astrologia Comportamental?
+            Quer descobrir seu potencial através da abordagem de Comportamento & Carreira?
           </h2>
           <a
             href="https://wa.me/5511975490354"

@@ -11,9 +11,9 @@ const differentials = [
   },
   {
     number: "02",
-    title: "Astrologia Comportamental",
+    title: "Comportamento & Carreira",
     description:
-      "Utilizamos o mapa astral como ferramenta de autoconhecimento estratégico — para entender padrões, potencialidades e bloqueios com profundidade.",
+      "Um olhar global para o negócio e para a empresária — integrando quem você é com o que você constrói. Entendemos padrões, potencialidades e bloqueios com profundidade.",
   },
   {
     number: "03",

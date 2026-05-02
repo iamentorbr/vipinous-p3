@@ -29,8 +29,8 @@ const jornada = [
     num: "01",
     title: "Despertar",
     subtitle: "Reconhecer quem você é",
-    description: "Antes de qualquer expansão, há o reconhecimento. Quem sou eu, de onde venho, o que carrego — e o que estou pronta para soltar. Aqui, a Astrologia Comportamental entra como mapa de autoconhecimento: revelando padrões naturais de expressão, áreas de maior fluxo, bloqueios recorrentes e o arquétipo que guia sua jornada de expansão.",
-    tags: ["Astrologia Comportamental", "Diagnóstico de Consciência"]
+    description: "Antes de qualquer expansão, há o reconhecimento. Quem sou eu, de onde venho, o que carrego — e o que estou pronta para soltar. Aqui, a análise de Comportamento & Carreira entra como mapa de autoconhecimento: revelando padrões naturais de expressão, áreas de maior fluxo, bloqueios recorrentes e o arquétipo que guia sua jornada de expansão — olhando para você e seu negócio de forma global.",
+    tags: ["Comportamento & Carreira", "Diagnóstico de Consciência"]
   },
   {
     num: "02",
@@ -64,7 +64,7 @@ const entregas = [
   {
     icon: BookOpen,
     title: "Conteúdos Exclusivos",
-    description: "Biblioteca crescente de conteúdos de Manifestação Consciente e Astrologia Comportamental — aplicados à vida, à carreira e ao negócio."
+    description: "Biblioteca crescente de conteúdos de Manifestação Consciente e Comportamento & Carreira — aplicados à vida, à carreira e ao negócio, com um olhar global para a empresária e seu empreendimento."
   },
   {
     icon: Sparkles,
@@ -195,7 +195,7 @@ export default function SejaConscientePage() {
           </p>
           
           <p className="mt-4 text-base md:text-lg text-[#B8B0A0] leading-relaxed">
-            Aqui, <strong className="text-[#F0D97A] font-medium">Manifestação Consciente</strong> e <strong className="text-[#F0D97A] font-medium">Astrologia Comportamental</strong> são as linguagens que guiam a jornada — não como misticismo isolado, mas como ferramentas integradas de autoconhecimento, desbloqueio e alinhamento com o que você veio construir.
+            Aqui, <strong className="text-[#F0D97A] font-medium">Manifestação Consciente</strong> e <strong className="text-[#F0D97A] font-medium">Comportamento & Carreira</strong> são as linguagens que guiam a jornada — não como misticismo isolado, mas como ferramentas integradas de autoconhecimento, desbloqueio e alinhamento com o que você veio construir. Um olhar global para o negócio e para a empresária.
           </p>
 
           {/* Pilares */}

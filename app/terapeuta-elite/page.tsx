@@ -41,7 +41,7 @@ const jornada = [
   {
     fase: "Fase de Imersão",
     titulo: "Diagnóstico Comportamental e de Negócio",
-    descricao: "Antes de qualquer estratégia, mapeamos quem você é como profissional. Perfil comportamental, mapa de Astrologia Comportamental, diagnóstico do negócio atual, identificação de bloqueios e padrões que limitam o crescimento. Aqui nasce a fundação — identidade, nicho, diferencial real e método proprietário."
+    descricao: "Antes de qualquer estratégia, mapeamos quem você é como profissional. Perfil comportamental, análise de Comportamento & Carreira, diagnóstico do negócio atual, identificação de bloqueios e padrões que limitam o crescimento. Um olhar global para você e seu negócio. Aqui nasce a fundação — identidade, nicho, diferencial real e método proprietário."
   },
   {
     fase: "Fase de Estruturação",
@@ -124,7 +124,7 @@ export default function TerapeutaElitePage() {
               O programa <strong className="text-[#1A1A1A]">Terapeuta de Elite</strong> é uma mentoria de <strong className="text-[#1A1A1A]">6 ou 12 meses</strong> — em grupo ou individual — que trabalha as quatro dimensões do alto desempenho no mercado terapêutico: mentalidade empreendedora, posicionamento de elite, comunicação de especialista e construção de negócio sustentável.
             </p>
             <p>
-              Integramos <strong className="text-[#1A1A1A]">Gestão Comportamental</strong>, <strong className="text-[#1A1A1A]">Astrologia Comportamental</strong> e <strong className="text-[#1A1A1A]">Manifestação Consciente</strong> como metodologia de base — porque o posicionamento que dura é o que nasce de dentro para fora.
+              Integramos <strong className="text-[#1A1A1A]">Gestão Comportamental</strong>, <strong className="text-[#1A1A1A]">Comportamento & Carreira</strong> e <strong className="text-[#1A1A1A]">Manifestação Consciente</strong> como metodologia de base — olhando para o negócio e para a empresária de forma global, porque o posicionamento que dura é o que nasce de dentro para fora.
             </p>
           </div>
 
@@ -234,7 +234,7 @@ export default function TerapeutaElitePage() {
               <div className="w-12 h-0.5 bg-[#C9A84C] mt-6 mb-6" />
               <div className="space-y-4 text-[#1A1A1A]/80 leading-relaxed">
                 <p>
-                  Especialista em gestão comportamental com mais de 15 anos de experiência, Lys desenvolveu uma metodologia única que integra Astrologia Comportamental, Manifestação Consciente e estratégia de negócios.
+                  Especialista em gestão comportamental com mais de 15 anos de experiência, Lys desenvolveu uma metodologia única que integra Comportamento & Carreira, Manifestação Consciente e estratégia de negócios — olhando para o negócio e para a empresária de forma global.
                 </p>
                 <p>
                   Fundadora da VI.P & NÔUS, ela já ajudou centenas de terapeutas a saírem do modo sobrevivência e construírem negócios prósperos e alinhados com seu propósito.
