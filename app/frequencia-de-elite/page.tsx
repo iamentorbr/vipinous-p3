@@ -263,11 +263,6 @@ export default function FrequenciaDeElitePage() {
             <div className="inline-block mb-6 px-4 py-2 text-xs font-medium tracking-widest text-[#D6A70C] bg-[#D6A70C]/20 uppercase">
               Acesso completo
             </div>
-            <div className="mb-8">
-              <span className="font-[family-name:var(--font-playfair)] text-5xl md:text-6xl font-semibold text-[#D6A70C]">
-                R$97
-              </span>
-            </div>
             <div className="space-y-3 mb-8 max-w-md mx-auto">
               {[
                 "3 horas de workshop ao vivo",

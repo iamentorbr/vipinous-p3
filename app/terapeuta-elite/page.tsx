@@ -18,8 +18,7 @@ const workshops = [
       "Atração de clientes ideais"
     ],
     href: "/terapeuta-de-elite",
-    icon: Target,
-    price: "R$ 197"
+    icon: Target
   },
   {
     title: "FREQUÊNCIA DE ELITE",
@@ -32,8 +31,7 @@ const workshops = [
       "Preparação energética"
     ],
     href: "/frequencia-de-elite",
-    icon: Sparkles,
-    price: "R$ 97"
+    icon: Sparkles
   }
 ]
 
@@ -290,10 +288,7 @@ export default function TerapeutaElitePage() {
                     ))}
                   </ul>
 
-                  <div className="flex items-center justify-between pt-6 border-t border-[#C9A84C]/20">
-                    <span className="font-serif text-2xl font-bold text-[#C9A84C]">
-                      {program.price}
-                    </span>
+                  <div className="flex items-center justify-end pt-6 border-t border-[#C9A84C]/20">
                     <Link
                       href={program.href}
                       className="inline-flex items-center gap-2 text-white hover:text-[#C9A84C] transition-colors group-hover:gap-3"
