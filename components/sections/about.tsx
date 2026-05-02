@@ -65,7 +65,7 @@ export function AboutSection() {
           {/* Right Column - Content */}
           <div className="lg:col-span-9">
             <h2 className="font-serif text-4xl font-semibold text-[#1A1A1A] md:text-5xl text-balance">
-              Uma consultoria que olha para você por inteiro.
+              Uma consultoria que olha para o seu negócio por inteiro.
             </h2>
 
             <div className="mt-8 flex flex-col lg:flex-row gap-8 items-start">
@@ -85,10 +85,13 @@ export function AboutSection() {
               </div>
               <div className="lg:w-2/3 space-y-6">
                 <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
-                  A VI.P & NÔUS nasceu da visão de Lys Ribeiro — especialista em gestão comportamental com mais de 15 anos de experiência — de unir desenvolvimento humano, gestão de carreira e estratégia digital em um único ecossistema.
+                  Com mais de 15 anos de experiência em gestão comportamental e desenvolvimento humano, a VI.P & NÔUS nasceu para preencher uma lacuna real no mercado: a ausência de uma abordagem que integre quem a empreendedora é com o que o seu negócio precisa ser.
                 </p>
                 <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
-                  Somos a única consultoria que integra Astrologia Comportamental, Manifestação Consciente e estratégia de negócios — porque empreendedoras prósperas se constroem de dentro para fora.
+                  Somos uma consultoria estratégica integrativa que une psicologia comportamental integrativa, Manifestação Consciente e estratégia de negócios em um único ecossistema, porque empreendedoras prósperas se constroem de dentro para fora.
+                </p>
+                <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
+                  Aqui, desenvolvimento humano e resultado profissional não são caminhos separados. São o mesmo caminho.
                 </p>
               </div>
             </div>
