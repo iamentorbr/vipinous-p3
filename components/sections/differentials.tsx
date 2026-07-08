@@ -7,19 +7,19 @@ const differentials = [
     number: "01",
     title: "Estrutura, não esforço isolado",
     description:
-      "A maioria dos negócios solo trava porque tenta crescer só por fora — mais post, mais oferta, mais ferramenta. Nós resolvemos a estrutura real do negócio e de quem o comanda.",
+      "A maioria dos negócios solo trava porque tenta crescer só por fora: mais post, mais oferta, mais ferramenta. Nós resolvemos a estrutura real do negócio e de quem o comanda.",
   },
   {
     number: "02",
     title: "Comportamento & Carreira",
     description:
-      "Um olhar global para o negócio e para a empresária — integrando quem você é com o que você constrói. Entendemos padrões, potencialidades e bloqueios com profundidade.",
+      "Um olhar global para o negócio e para a empresária, integrando quem você é com o que você constrói. Entendemos padrões, potencialidades e bloqueios com profundidade.",
   },
   {
     number: "03",
     title: "Consultoria, não coaching",
     description:
-      "Não vendo motivação, vendo método — construído em 20 anos entre o mundo corporativo e o empreendedorismo real. Aqui você recebe estrutura, não hype.",
+      "Não vendo motivação, vendo método, construído em 20 anos entre o mundo corporativo e o empreendedorismo real. Aqui você recebe estrutura, não hype.",
   },
   {
     number: "04",

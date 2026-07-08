@@ -7,7 +7,7 @@ import { User, TrendingUp, Smartphone } from "lucide-react"
 const features = [
   {
     icon: User,
-    title: "OPB — One Person Business",
+    title: "OPB (One Person Business)",
     description: "Estrutura para quem constrói e sustenta o negócio sozinha.",
   },
   {
@@ -85,13 +85,13 @@ export function AboutSection() {
               </div>
               <div className="lg:w-2/3 space-y-6">
                 <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
-                  Há 20 anos atuando entre o mundo corporativo e o empreendedorismo, Lys Ribeiro desenvolveu uma consultoria estratégica que integra Gestão de Carreira e Comportamento com Ativação do Negócio no Digital — para empreendedoras que constroem sozinhas e precisam de estrutura, não de mais uma fórmula motivacional.
+                  Há 20 anos atuando entre o mundo corporativo e o empreendedorismo, Lys Ribeiro desenvolveu uma consultoria estratégica que integra Gestão de Carreira e Comportamento com Ativação do Negócio no Digital. Tudo pensado para empreendedoras que constroem sozinhas e precisam de estrutura, não de mais uma fórmula motivacional.
                 </p>
                 <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
-                  Trabalhamos com quem toca o próprio negócio sozinha — o One Person Business — e está em um de três momentos: começando a empreender, escalando o que já funciona, ou repensando o negócio para o próximo capítulo.
+                  Trabalhamos com quem toca o próprio negócio sozinha, o chamado One Person Business, e está em um de três momentos: começando a empreender, escalando o que já funciona, ou repensando o negócio para o próximo capítulo.
                 </p>
                 <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
-                  Aqui, carreira, comportamento e presença digital não são frentes soltas. São um sistema único — porque negócios que crescem começam por dentro.
+                  Aqui, carreira, comportamento e presença digital não são frentes soltas. São um sistema único, porque negócios que crescem começam por dentro.
                 </p>
               </div>
             </div>

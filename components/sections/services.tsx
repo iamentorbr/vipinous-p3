@@ -38,7 +38,7 @@ const services = [
       "Tudo dos Pacotes 01 e 02, e ainda:",
       "Sua marca pessoal e empresarial passa a ser gerida com a mesma estratégia que governa o seu desenvolvimento interno",
       "Você para de perder tempo com produção de conteúdo e passa a focar no que só você pode fazer enquanto a execução acontece por você",
-      "Cada post, arte e legenda carrega intenção estratégica — não é conteúdo pelo conteúdo, é comunicação que posiciona e converte",
+      "Cada post, arte e legenda carrega intenção estratégica. Não é conteúdo pelo conteúdo, é comunicação que posiciona e converte",
       "Recebe relatórios mensais que mostram onde seu negócio está crescendo e onde a energia precisa ser redirecionada",
     ],
     cta: "Saiba mais",
