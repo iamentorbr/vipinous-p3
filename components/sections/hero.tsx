@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useRef } from "react"
+import Link from "next/link"
 
 export function HeroSection() {
   const sectionRef = useRef<HTMLElement>(null)
@@ -78,12 +79,12 @@ export function HeroSection() {
 
           {/* CTA Buttons */}
           <div className="mt-10 flex flex-col gap-4 sm:flex-row">
-            <a
-              href="#contato"
+            <Link
+              href="/diagnostico"
               className="inline-flex items-center justify-center bg-[#C9A84C] px-8 py-4 text-sm font-semibold tracking-wider text-[#000000] transition-all hover:bg-[#C9A84C]/90"
             >
               Fazer o Diagnóstico
-            </a>
+            </Link>
             <a
               href="#servicos"
               className="inline-flex items-center justify-center border border-white px-8 py-4 text-sm font-semibold tracking-wider text-white transition-all hover:bg-white hover:text-[#000000]"

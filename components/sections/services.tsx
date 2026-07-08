@@ -139,6 +139,22 @@ export function ServicesSection() {
             </div>
           ))}
         </div>
+
+        {/* Not sure which to choose */}
+        <div className="mt-16 border border-[#333333] bg-[#000000] p-10 text-center lg:p-16">
+          <h3 className="font-serif text-2xl font-semibold text-white md:text-3xl text-balance">
+            Não sabe qual escolher?
+          </h3>
+          <p className="mx-auto mt-4 max-w-2xl leading-relaxed text-[#888888] text-pretty">
+            Cada negócio pede um ponto de partida diferente. Se você não tem certeza de qual frente priorizar agora, o Diagnóstico identifica isso em poucos minutos e recomenda o pacote certo para o seu momento.
+          </p>
+          <Link
+            href="/diagnostico"
+            className="mt-8 inline-flex items-center justify-center bg-[#C9A84C] px-8 py-4 text-sm font-semibold tracking-wider text-[#000000] transition-all hover:bg-[#C9A84C]/90"
+          >
+            Fazer o Diagnóstico Gratuito
+          </Link>
+        </div>
       </div>
     </section>
   )
