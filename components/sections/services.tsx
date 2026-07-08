@@ -43,6 +43,19 @@ const services = [
     ],
     cta: "Saiba mais",
   },
+  {
+    badge: "PACOTE EXECUÇÃO GLOBAL",
+    title: "Operação Completa do Seu Negócio",
+    href: "/servicos/execucao-global",
+    features: [
+      "Tudo do Pacote START & GROWTH, e ainda:",
+      "A operação sai da sua mão: você não precisa executar, precisa liderar",
+      "Execução completa via parceiros, com entregáveis produzidos e publicados, não apenas planejados",
+      "Ponto único de comando: a Lys coordena todos os entregáveis e parceiros",
+      "Relatório executivo mensal de entregas e resultados, com prioridade de agenda e resposta",
+    ],
+    cta: "Saiba mais",
+  },
 ]
 
 export function ServicesSection() {

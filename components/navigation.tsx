@@ -9,7 +9,6 @@ const navLinks = [
   { href: "#quem-somos", label: "QUEM SOMOS" },
   { href: "#servicos", label: "SERVIÇOS" },
   { href: "#diferenciais", label: "DIFERENCIAIS" },
-  { href: "/blog", label: "BLOG" },
   { href: "#contato", label: "CONTATO" },
 ]
 
