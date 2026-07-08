@@ -73,7 +73,7 @@ export function HeroSection() {
 
           {/* Subtitle */}
           <p className="mt-8 font-serif text-xl italic text-[#C9A84C]/80 md:text-2xl text-pretty">
-            Consultoria estratégica para empreendedoras que constroem um negócio sozinhas — e querem crescer com estrutura, não com sobrecarga.
+            Consultoria estratégica para empreendedoras que constroem um negócio sozinhas e querem crescer com estrutura, não com sobrecarga.
           </p>
 
           {/* CTA Buttons */}
