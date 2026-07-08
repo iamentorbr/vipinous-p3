@@ -5,9 +5,9 @@ import { useEffect, useRef } from "react"
 const differentials = [
   {
     number: "01",
-    title: "Metodologia Integrativa",
+    title: "Estrutura, não esforço isolado",
     description:
-      "Unimos comportamento, carreira e presença digital em um processo coeso. Não são três serviços separados — é uma jornada única.",
+      "A maioria dos negócios solo trava porque tenta crescer só por fora — mais post, mais oferta, mais ferramenta. Nós resolvemos a estrutura real do negócio e de quem o comanda.",
   },
   {
     number: "02",
@@ -17,9 +17,9 @@ const differentials = [
   },
   {
     number: "03",
-    title: "Manifestação Consciente",
+    title: "Consultoria, não coaching",
     description:
-      "A Lei da Atração aplicada ao negócio: alinhamento de intenção, identidade e ação. Porque resultado sustentável começa no nível energético.",
+      "Não vendo motivação, vendo método — construído em 20 anos entre o mundo corporativo e o empreendedorismo real. Aqui você recebe estrutura, não hype.",
   },
   {
     number: "04",
@@ -67,10 +67,10 @@ export function DifferentialsSection() {
               POR QUE A VI.P & NÔUS
             </p>
             <h2 className="mt-6 font-serif text-4xl font-semibold text-[#1A1A1A] md:text-5xl text-balance">
-              Uma abordagem que nenhuma outra consultoria oferece.
+              Não sou coach. Sou consultora estratégica.
             </h2>
             <p className="mx-auto mt-6 max-w-2xl font-serif text-xl italic text-[#C9A84C]">
-              {"\"Não entregamos fórmulas. Entregamos estrutura com verdade.\""}
+              {"\"Crescimento que não começa por dentro não se sustenta.\""}
             </p>
           </div>
 

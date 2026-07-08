@@ -7,14 +7,7 @@ import Link from "next/link"
 const navLinks = [
   { href: "/", label: "HOME" },
   { href: "/#quem-somos", label: "QUEM SOMOS" },
-  { 
-    href: "/#servicos", 
-    label: "SERVIÇOS",
-    dropdown: [
-      { href: "/terapeuta-elite", label: "TERAPEUTA DE ELITE" },
-      { href: "/seja-consciente", label: "SEJA CONSCIENTE" },
-    ]
-  },
+  { href: "/#servicos", label: "SERVIÇOS" },
   { href: "/#diferenciais", label: "DIFERENCIAIS" },
   { href: "/blog", label: "BLOG" },
   { href: "/#contato", label: "CONTATO" },

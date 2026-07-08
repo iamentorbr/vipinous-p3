@@ -2,23 +2,23 @@
 
 import { useEffect, useRef } from "react"
 import Image from "next/image"
-import { Brain, TrendingUp, Smartphone } from "lucide-react"
+import { User, TrendingUp, Smartphone } from "lucide-react"
 
 const features = [
   {
-    icon: Brain,
-    title: "Saúde Mental",
-    description: "Equilíbrio interior como base para decisões estratégicas",
+    icon: User,
+    title: "OPB — One Person Business",
+    description: "Estrutura para quem constrói e sustenta o negócio sozinha.",
   },
   {
     icon: TrendingUp,
-    title: "Gestão de Carreira",
-    description: "Clareza de propósito e direcionamento profissional real",
+    title: "Gestão de Carreira e Comportamento",
+    description: "A base interna que sustenta decisões e crescimento externo.",
   },
   {
     icon: Smartphone,
-    title: "Ativação Digital",
-    description: "Presença estratégica que comunica quem você realmente é",
+    title: "Ativação do Negócio no Digital",
+    description: "Presença e conteúdo que convertem, sem depender de fórmula.",
   },
 ]
 
@@ -85,13 +85,13 @@ export function AboutSection() {
               </div>
               <div className="lg:w-2/3 space-y-6">
                 <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
-                  Com mais de 15 anos de experiência em gestão comportamental e desenvolvimento humano, a VI.P & NÔUS nasceu para preencher uma lacuna real no mercado: a ausência de uma abordagem que integre quem a empreendedora é com o que o seu negócio precisa ser.
+                  Há 20 anos atuando entre o mundo corporativo e o empreendedorismo, Lys Ribeiro desenvolveu uma consultoria estratégica que integra Gestão de Carreira e Comportamento com Ativação do Negócio no Digital — para empreendedoras que constroem sozinhas e precisam de estrutura, não de mais uma fórmula motivacional.
                 </p>
                 <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
-                  Somos uma consultoria estratégica integrativa que une psicologia comportamental integrativa, Manifestação Consciente e estratégia de negócios em um único ecossistema, porque empreendedoras prósperas se constroem de dentro para fora.
+                  Trabalhamos com quem toca o próprio negócio sozinha — o One Person Business — e está em um de três momentos: começando a empreender, escalando o que já funciona, ou repensando o negócio para o próximo capítulo.
                 </p>
                 <p className="text-lg leading-relaxed text-[#1A1A1A]/80">
-                  Aqui, desenvolvimento humano e resultado profissional não são caminhos separados. São o mesmo caminho.
+                  Aqui, carreira, comportamento e presença digital não são frentes soltas. São um sistema único — porque negócios que crescem começam por dentro.
                 </p>
               </div>
             </div>
