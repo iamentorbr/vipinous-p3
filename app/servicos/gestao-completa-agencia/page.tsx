@@ -49,6 +49,10 @@ export default function GestaoCompletaAgenciaPage() {
         href: "/servicos/gestao-ativacao-digital",
         title: "Pacote GROWTH"
       }}
+      nextService={{
+        href: "/servicos/execucao-global",
+        title: "Pacote EXECUÇÃO GLOBAL"
+      }}
     />
   )
 }
