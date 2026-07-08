@@ -9,7 +9,7 @@ const services = [
     title: "Gestão de Carreira e Comportamento",
     href: "/servicos/gestao-carreira-comportamento",
     features: [
-      "Você descobre, pelo seu mapa astral, os padrões comportamentais que estão travando suas decisões e limitando seus resultados",
+      "Você descobre os padrões comportamentais que estão travando suas decisões e limitando seus resultados",
       "Identifica crenças inconscientes que sabotam sua liderança e aprende a dissolvê-las com método, não com força de vontade",
       "Constrói clareza real sobre seu propósito profissional e o caminho mais alinhado com quem você genuinamente é",
       "Passa a tomar decisões de carreira com segurança, porque você entende sua própria lógica de funcionamento",

@@ -12,11 +12,11 @@ export default function GestaoCarreiraComportamentoPage() {
       packageNumber="START"
       title="Gestão de Carreira e Comportamento"
       subtitle="Autoconhecimento estratégico para decisões certeiras"
-      description="Você descobre, pelo seu mapa astral, os padrões comportamentais que estão travando suas decisões e limitando seus resultados. Constrói clareza real sobre seu propósito profissional e o caminho mais alinhado com quem você genuinamente é."
+      description="Você descobre os padrões comportamentais que estão travando suas decisões e limitando seus resultados. Constrói clareza real sobre seu propósito profissional e o caminho mais alinhado com quem você genuinamente é."
       features={[
         {
           title: "Mapeamento de Padrões Comportamentais",
-          description: "Descubra, pelo seu mapa astral, os padrões que estão travando suas decisões e limitando seus resultados."
+          description: "Descubra os padrões que estão travando suas decisões e limitando seus resultados."
         },
         {
           title: "Dissolução de Crenças Limitantes",
@@ -32,7 +32,7 @@ export default function GestaoCarreiraComportamentoPage() {
         }
       ]}
       includes={[
-        "Você descobre, pelo seu mapa astral, os padrões comportamentais que estão travando suas decisões e limitando seus resultados",
+        "Você descobre os padrões comportamentais que estão travando suas decisões e limitando seus resultados",
         "Identifica crenças inconscientes que sabotam sua liderança e aprende a dissolvê-las com método, não com força de vontade",
         "Constrói clareza real sobre seu propósito profissional e o caminho mais alinhado com quem você genuinamente é",
         "Passa a tomar decisões de carreira com segurança, porque você entende sua própria lógica de funcionamento",

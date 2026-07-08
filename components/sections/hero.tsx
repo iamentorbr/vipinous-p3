@@ -72,25 +72,23 @@ export function HeroSection() {
           </h1>
 
           {/* Subtitle */}
-          <p className="mt-8 font-serif text-xl italic text-[#C9A84C]/80 md:text-2xl">
-            Consultoria Estratégica Integrativa para empreendedoras que querem resultados reais.
+          <p className="mt-8 font-serif text-xl italic text-[#C9A84C]/80 md:text-2xl text-pretty">
+            Consultoria estratégica para empreendedoras que constroem um negócio sozinhas — e querem crescer com estrutura, não com sobrecarga.
           </p>
 
           {/* CTA Buttons */}
           <div className="mt-10 flex flex-col gap-4 sm:flex-row">
             <a
-              href="#servicos"
+              href="#contato"
               className="inline-flex items-center justify-center bg-[#C9A84C] px-8 py-4 text-sm font-semibold tracking-wider text-[#000000] transition-all hover:bg-[#C9A84C]/90"
             >
-              Conheça os Serviços
+              Fazer o Diagnóstico
             </a>
             <a
-              href="https://wa.me/5511975490354"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#servicos"
               className="inline-flex items-center justify-center border border-white px-8 py-4 text-sm font-semibold tracking-wider text-white transition-all hover:bg-white hover:text-[#000000]"
             >
-              Agendar Conversa
+              Conhecer os Serviços
             </a>
           </div>
         </div>
@@ -101,7 +99,7 @@ export function HeroSection() {
         {/* Stats */}
         <div className="mt-10 grid grid-cols-1 gap-8 sm:grid-cols-3">
           <div className="text-center sm:text-left">
-            <p className="font-serif text-3xl font-semibold text-[#C9A84C]">+15 anos</p>
+            <p className="font-serif text-3xl font-semibold text-[#C9A84C]">20 anos</p>
             <p className="mt-1 text-sm tracking-wider text-[#888888]">de experiência</p>
           </div>
           <div className="text-center sm:text-left">
@@ -109,8 +107,8 @@ export function HeroSection() {
             <p className="mt-1 text-sm tracking-wider text-[#888888]">integradas</p>
           </div>
           <div className="text-center sm:text-left">
-            <p className="font-serif text-3xl font-semibold text-[#C9A84C]">Abordagem</p>
-            <p className="mt-1 text-sm tracking-wider text-[#888888]">360°</p>
+            <p className="font-serif text-3xl font-semibold text-[#C9A84C]">Consultoria</p>
+            <p className="mt-1 text-sm tracking-wider text-[#888888]">estratégica sênior</p>
           </div>
         </div>
       </div>
